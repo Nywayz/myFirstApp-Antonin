@@ -1,8 +1,8 @@
 {
   "name": " Top Kek",
-  "id": "2",
+  "id": 2,
   "short_name": "On fait des tops",
-  "start_url": "/",
+  "start_url": "https://pat-patrol.fr/m/www/",
   "display": "standalone",
   "theme_color": "#ffff",
   "icons": [
