@@ -1,6 +1,6 @@
 /** VARS */
 const ORIGIN_URL = `${location.protocol}//${location.host}`;
-const CACHE_NAME = "offline-v3";
+const CACHE_NAME = "on est pas en ligne";
 const OFFLINE_URL = "offline.html";
 const CACHED_FILES = [
   OFFLINE_URL,

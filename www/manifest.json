@@ -1,6 +1,6 @@
 {
-  "name": " Ynov Dev Web Mobile",
-  "short_name": "Top Manga",
+  "name": " Top Kek",
+  "short_name": "On fait des tops",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffff",
@@ -11,7 +11,7 @@
       "type": "image/png"
     },
     {
-      "src": "img/logos/144x144.png",
+      "src": "img/logos144.png",
       "sizes": "144x144",
       "type": "image/png"
     }
